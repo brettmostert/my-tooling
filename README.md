@@ -40,11 +40,28 @@ With the following extensions...
 - Send to Kindle
 - Windscribe
 - Screencastify
-- Speedtest
+- Speedtest by Ookla
 - Save to Keep
 - Grammarly
 - LastPass
 - The Great Suspender
+- IDM (Internet Download Manager)
+- Vimeo Video Downloader
+- User-Agent Switcher for Google Chrome
+- Chrome Remote Desktop
+
+## Remote Desktop
+
+- Chrome Remote Desktop
+
+## Office Tools
+
+- MS Office (365)
+
+## Download Manager
+
+- IDM (Internet Download Manager)
+- WinHTTrack (Web Site Copier)
 
 
 ## Code / Text Editors / IDE
