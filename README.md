@@ -7,6 +7,10 @@
 - Ubuntu (Virtualised or WSL for Developement)
 - Alpine (Used for most containers)
 
+## Other
+- SSH
+- SCP (Copy Files see https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
+
 ## Terminal
 
 - Powershell (I should really learn this more...)
