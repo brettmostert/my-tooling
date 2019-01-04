@@ -1,4 +1,4 @@
-# My Tooling
+# My Tooling on Windows
 
 ## O/S
 
@@ -6,6 +6,26 @@
 - Manjaro (Desktop  - Dual Boot)
 - Ubuntu (Virtualised or WSL for Developement)
 - Alpine (Used for most containers)
+
+## Terminal
+
+- Powershell (I should really learn this more...)
+- Bash (WSL)
+- ComEMU
+
+## Launcher
+
+- Wox
+
+## Music
+
+- Spotify
+
+## Chat
+
+- Google Talk
+- WhatsApp
+- Slack
 
 ## Browser
 
@@ -52,3 +72,7 @@ With the following extensions...
 - Kotlin (Want to learn)
 - Node.JS (Learning)
 - Python (Learning)
+
+## Antivirus
+
+- BitDefender (Antivirus Plus)
