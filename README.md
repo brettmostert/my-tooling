@@ -10,20 +10,17 @@
 ## Other
 - SSH
 - SCP (Copy Files see https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
+- Ditto (Clipboard Manager)
+- Wox (Application Launcher)
+- Spotify
+- Chrome Remote Desktop (Remote Desktop)
+
 
 ## Terminal
 
 - Powershell (I should really learn this more...)
 - Bash (WSL)
 - ComEMU
-
-## Launcher
-
-- Wox
-
-## Music
-
-- Spotify
 
 ## Chat
 
@@ -54,10 +51,6 @@ With the following extensions...
 - User-Agent Switcher for Google Chrome
 - Chrome Remote Desktop
 
-## Remote Desktop
-
-- Chrome Remote Desktop
-
 ## Office Tools
 
 - MS Office (365)
@@ -66,7 +59,6 @@ With the following extensions...
 
 - IDM (Internet Download Manager)
 - WinHTTrack (Web Site Copier)
-
 
 ## Code / Text Editors / IDE
 
