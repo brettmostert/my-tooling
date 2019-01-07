@@ -78,7 +78,7 @@ With the following extensions...
 - Vagrant
 - Ms Hyper-V
 
-## Programming Languages
+## Programming Languages (of the moment)
 
 - .NET Core (C#)
 - .NET (C#)
@@ -86,6 +86,7 @@ With the following extensions...
 - Kotlin (Want to learn)
 - Node.JS (Learning)
 - Python (Learning)
+- JavaScript (Need a refresher, and to get up-to-date)
 
 ## Antivirus
 
