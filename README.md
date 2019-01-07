@@ -3,9 +3,9 @@
 ## O/S
 
 - Windows 10 (Desktop - Dual Boot)
-- Manjaro (Desktop  - Dual Boot)
-- Ubuntu (Virtualised or WSL for Developement)
-- Alpine (Used for most containers)
+- Linux - Manjaro (Desktop  - Dual Boot)
+- Linux - Ubuntu (Virtualised or WSL for Developement)
+- Linux - Alpine (Used for most containers)
 
 ## Other
 - SSH
