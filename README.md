@@ -14,6 +14,7 @@
 - Wox (Application Launcher)
 - Spotify
 - Chrome Remote Desktop (Remote Desktop)
+- Google Drive / Photos (Documents, Backups, Photos)
 
 
 ## Terminal
