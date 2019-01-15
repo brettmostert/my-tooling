@@ -8,6 +8,7 @@
 - Linux - Alpine (Used for most containers)
 
 ## Other
+
 - SSH
 - SCP (Copy Files see https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
 - Ditto (Clipboard Manager)
@@ -17,11 +18,11 @@
 - Google Drive / Photos (Documents, Backups, Photos)
 - AllWay Sync (Local Backups / Sync)
 
-
 ## Terminal
 
 - Powershell (I should really learn this more...)
-- Bash (WSL)
+- Bash (WSL - Don't forget to...)
+  > echo "cd ~" >> ~/.bashrc
 - ComEMU
 
 ## Chat
