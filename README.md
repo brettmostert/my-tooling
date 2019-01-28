@@ -3,7 +3,6 @@
 - [Operating Systems](#OperatingSystems)
 - [System Utilities](#SystemUtilities)
 - [Collaboration](#Collaboration)
-- [Web Browsers](#WebBrowsers)
 - [Productivity Tools](#ProductivityTools)
 - [Code Editors & IDE](#CodeEditors)
 - [Containers](#Containers)
@@ -46,7 +45,7 @@
 
 ## <a name="ProductivityTools"></a>Productivity Tools
 
-- Chrome (see [Extensions](Chrome-Extensions))
+- Chrome (see [Extensions](#Chrome-Extensions))
 - MS Office (365)
 - Google Drive / Photos (Documents, Backups, Photos)
 
