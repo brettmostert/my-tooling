@@ -14,14 +14,14 @@
   - [Chrome - Extensions](#Chrome-Extensions)
 ---
 
-## <a name="OperatingSystems"></a>Operating Systems
+## Operating Systems <a name="OperatingSystems"></a>
 
 - Windows 10 (Desktop - Dual Boot)
 - Linux - Manjaro (Desktop  - Dual Boot)
 - Linux - Ubuntu (Virtualised or WSL for Developement)
 - Linux - Alpine (Used for most containers)
 
-## <a name="SystemUtilities"></a>System Utilities
+## System Utilities <a name="SystemUtilities"></a>
 
 - SSH
 - SCP (Copy Files see https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
@@ -38,36 +38,36 @@
   > echo "cd ~" >> ~/.bashrc
 - ComEMU
 
-## <a name="Collaboration"></a>Collaboration
+## Collaboration <a name="Collaboration"></a>
 
 - Google Talk
 - WhatsApp
 - Slack
 
-## <a name="ProductivityTools"></a>Productivity Tools
+## Productivity Tools <a name="ProductivityTools"></a>
 
 - Chrome (see [Extensions](Chrome-Extensions))
 - MS Office (365)
 - Google Drive / Photos (Documents, Backups, Photos)
 
-## <a name="CodeEditors"></a>Code Editors & IDE
+## Code Editors & IDE <a name="CodeEditors"></a>
 
 - Visual Studio Code (see [Extensions](#VisualStudioCode-Extensions))
 - Visual Studio
 - Eclipse / STS
 
-## <a name="Containers"></a>Containers
+## Containers <a name="Containers"></a>
 
 - Docker
 - Docker Swarm
 - Kubernetes
 
-## <a name="Virtualisation"></a>Virtualisation
+## Virtualisation <a name="Virtualisation"></a>
 
 - Vagrant
 - Ms Hyper-V
 
-## <a name="ProgrammingScriptingLanguages"></a>Programming * Scripting Languages (of the moment)
+## Programming * Scripting Languages (of the moment) <a name="ProgrammingScriptingLanguages"></a>
 
 - .NET Core (C#)
 - .NET (C#)
@@ -79,13 +79,13 @@
 - HTML
 - MD
 
-## <a name="Extensions"></a>Extensions
+## Extensions <a name="Extensions"></a>
 
-### <a name="VisualStudioCode-Extensions"></a>Visual Studio Code - Extensions
+### Visual Studio Code - Extensions <a name="VisualStudioCode-Extensions"></a>
 
 - GitLens — Git supercharged
 
-### <a name="Chrome-Extensions"></a>Chrome - Extensions
+### Chrome - Extensions <a name="Chrome-Extensions"></a>
 
 With the following extensions...
 
