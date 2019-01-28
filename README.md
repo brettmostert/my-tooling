@@ -14,14 +14,14 @@
   - [Chrome - Extensions](#Chrome-Extensions)
 ---
 
-## <a name="Operating Systems"></a> Operating Systems
+## <a name="OperatingSystems"></a>Operating Systems
 
 - Windows 10 (Desktop - Dual Boot)
 - Linux - Manjaro (Desktop  - Dual Boot)
 - Linux - Ubuntu (Virtualised or WSL for Developement)
 - Linux - Alpine (Used for most containers)
 
-## <a name="SystemUtilities"></a> System Utilities
+## <a name="SystemUtilities"></a>System Utilities
 
 - SSH
 - SCP (Copy Files see https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
@@ -38,7 +38,7 @@
   > echo "cd ~" >> ~/.bashrc
 - ComEMU
 
-## <a name="Collaboration"></a> Collaboration
+## <a name="Collaboration"></a>Collaboration
 
 - Google Talk
 - WhatsApp
