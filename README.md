@@ -65,7 +65,7 @@ With the following extensions...
 
 ## Code / Text Editors / IDE
 
-- Visual Studio Code (see Extensions)
+- Visual Studio Code (see [Extensions](#Extensions))
 - Visual Studio
 - Eclipse / STS
 
@@ -93,3 +93,7 @@ With the following extensions...
 ## Antivirus
 
 - BitDefender (Antivirus Plus)
+
+## <a name="Extensions"></a>Extensions
+
+- GitLens — Git supercharged
