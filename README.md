@@ -67,7 +67,7 @@
 - Vagrant
 - Ms Hyper-V
 
-## <a name="ProgrammingScriptingLanguages"></a>Programming * Scripting Languages (of the moment)
+## <a name="ProgrammingScriptingLanguages"></a>Programming & Scripting Languages (of the moment)
 
 - .NET Core (C#)
 - .NET (C#)
