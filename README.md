@@ -14,7 +14,7 @@
   - [Chrome - Extensions](#Chrome-Extensions)
 ---
 
-## Operating Systems<a name="OperatingSystems"></a>
+## <a name="OperatingSystems">Operating Systems</a>
 
 - Windows 10 (Desktop - Dual Boot)
 - Linux - Manjaro (Desktop  - Dual Boot)
