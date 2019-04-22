@@ -36,6 +36,7 @@
 - Bash (WSL - Don't forget to...)
   > echo "cd ~" >> ~/.bashrc
 - ComEMU
+- Java Version Manager (https://github.com/shyiko/jabba)
 
 ## <a name="Collaboration"></a>Collaboration
 
