@@ -1,11 +1,10 @@
 # My Tooling
-
 - [Operating Systems](#OperatingSystems)
 - [System Utilities](#SystemUtilities)
 - [Collaboration](#Collaboration)
 - [Productivity Tools](#ProductivityTools)
 - [Code Editors & IDE](#CodeEditors)
-- [Containers](#Containers)
+- [Containers](#Containers)]
 - [Virtualisation](#Virtualisation)
 - [Programming & Scripting Languages](#ProgrammingScriptingLanguages)
 - [Extensions](#Extensions)
@@ -16,7 +15,7 @@
 ## <a name="OperatingSystems"></a>Operating Systems
 
 - Windows 10 (Desktop - Dual Boot)
-- Linux - Manjaro (Desktop  - Dual Boot)
+- Linux - Antergos (Desktop - Dual Boot)
 - Linux - Ubuntu (Virtualised or WSL for Developement)
 - Linux - Alpine (Used for most containers)
 
@@ -28,15 +27,17 @@
 - Wox (Application Launcher)
 - Spotify
 - Chrome Remote Desktop (Remote Desktop)
-- AllWay Sync (Local Backups / Sync)
+- ~~AllWay Sync (Local Backups / Sync)~~
+- Syncredible (Local Backups / Sync)
 - IDM (Internet Download Manager)
 - WinHTTrack (Web Site Copier)
 - BitDefender (Antivirus Plus)
 - Powershell (I should really learn this more...)
 - Bash (WSL - Don't forget to...)
   > echo "cd ~" >> ~/.bashrc
-- ComEMU
-- Java Version Manager (https://github.com/shyiko/jabba)
+- ComEMU (console replacement)
+- Hyper (console replacement)
+- RocketDock (Aplication Dock)
 
 ## <a name="Collaboration"></a>Collaboration
 
