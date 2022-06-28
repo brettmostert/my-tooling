@@ -1,22 +1,38 @@
 # My Tooling
-- [Operating Systems](#OperatingSystems)
-- [System Utilities](#SystemUtilities)
-- [Collaboration](#Collaboration)
-- [Productivity Tools](#ProductivityTools)
-- [Code Editors & IDE](#CodeEditors)
-- [Containers](#Containers)]
-- [Virtualisation](#Virtualisation)
-- [Programming & Scripting Languages](#ProgrammingScriptingLanguages)
-- [Extensions](#Extensions)
-  - [Visual Studio Code - Extensions](#VisualStudioCode-Extensions)
-  - [Chrome - Extensions](#Chrome-Extensions)
+- [My Tooling](#my-tooling)
+  - [<a name="OperatingSystems"></a>Operating Systems](#operating-systems)
+  - [<a name="MacOsTools"></a>Mac Os Tools](#mac-os-tools)
+  - [<a name="SystemUtilities"></a>System Utilities](#system-utilities)
+  - [<a name="Collaboration"></a>Collaboration](#collaboration)
+  - [<a name="ProductivityTools"></a>Productivity Tools](#productivity-tools)
+  - [<a name="CodeEditors"></a>Code Editors & IDE](#code-editors--ide)
+  - [<a name="Containers"></a>Containers](#containers)
+  - [<a name="ProgrammingScriptingLanguages"></a>Programming & Scripting Languages (of the moment)](#programming--scripting-languages-of-the-moment)
+  - [<a name="Extensions"></a>Extensions](#extensions)
+    - [<a name="VisualStudioCode-Extensions"></a>Visual Studio Code - Extensions](#visual-studio-code---extensions)
+    - [<a name="Chrome-Extensions"></a>Chrome - Extensions](#chrome---extensions)
 ---
 
 ## <a name="OperatingSystems"></a>Operating Systems
 
+- MacOs (Yes, I switched)
 - Linux - Manjaro KDE (Desktop)
 - Linux - Alpine (Used for most containers)
 
+## <a name="MacOsTools"></a>Mac Os Tools
+
+- Albert
+- AltTab
+- Rectangle
+- Rancher Desktop
+- DropZone
+- brew
+- oh-my-zsh
+- iterm 
+- Cheat Sheet
+- brain.fm
+- Maccy
+- Bear
 ## <a name="SystemUtilities"></a>System Utilities
 
 - insync (google drive and onedrive for linux)
@@ -41,6 +57,7 @@
 
 - Docker
 - Kubernetes
+- Rancher Desktop (on MacOs)
 
 ## <a name="ProgrammingScriptingLanguages"></a>Programming & Scripting Languages (of the moment)
 
