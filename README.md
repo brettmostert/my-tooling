@@ -2,16 +2,16 @@
 
 - [My Tooling](#my-tooling)
   - [Operating Systems](#operating-systems)
-  - [<a name="MacOsTools"></a>Mac Os Tools](#mac-os-tools)
-  - [<a name="SystemUtilities"></a>System Utilities](#system-utilities)
-  - [<a name="Collaboration"></a>Collaboration](#collaboration)
-  - [<a name="ProductivityTools"></a>Productivity Tools](#productivity-tools)
-  - [<a name="CodeEditors"></a>Code Editors & IDE](#code-editors--ide)
-  - [<a name="Containers"></a>Containers](#containers)
-  - [<a name="ProgrammingScriptingLanguages"></a>Programming & Scripting Languages (of the moment)](#programming--scripting-languages-of-the-moment)
-  - [<a name="Extensions"></a>Extensions](#extensions)
-    - [<a name="VisualStudioCode-Extensions"></a>Visual Studio Code - Extensions](#visual-studio-code---extensions)
-    - [<a name="Chrome-Extensions"></a>Chrome - Extensions](#chrome---extensions)
+  - [Mac Os Tools](#mac-os-tools)
+  - [System Utilities](#system-utilities)
+  - [Collaboration](#collaboration)
+  - [Productivity Tools](#productivity-tools)
+  - [Code Editors & IDE](#code-editors--ide)
+  - [Containers](#containers)
+  - [Programming & Scripting Languages (of the moment)](#programming--scripting-languages-of-the-moment)
+  - [Extensions](#extensions)
+    - [Visual Studio Code - Extensions](#visual-studio-code---extensions)
+    - [Chrome - Extensions](#chrome---extensions)
 ---
 
 ## <a name="OperatingSystems"></a>Operating Systems
