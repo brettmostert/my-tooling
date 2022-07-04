@@ -34,6 +34,9 @@
 - brain.fm
 - Maccy
 - Bear
+- CleanMyMac X
+- Toggl Track
+
 ## <a name="SystemUtilities"></a>System Utilities
 
 - insync (google drive and onedrive for linux)
