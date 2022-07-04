@@ -22,7 +22,7 @@
 
 ## <a name="MacOsTools"></a>Mac Os Tools
 
-- Albert
+- Alfred
 - AltTab
 - Rectangle
 - Rancher Desktop
